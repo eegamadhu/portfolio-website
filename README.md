@@ -10,7 +10,7 @@ This portfolio showcases my skills, projects, and learning journey as a Web Deve
 - CSS
 
 ## Live Website
- https://yourusername.github.io/portfolio-website/
+ https://eegamadhu.github.io/portfolio-website/
 
 ## Features
 - Simple and clean UI
