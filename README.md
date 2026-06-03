@@ -31,5 +31,5 @@ This project is created to practice frontend development and to showcase my work
 Madhu (Aspiring Full Stack Developer)
 
 ## Contact
-Email: yourmail@gmail.com
-GitHub: https://github.com/yourusername
+Email: eegamadhu00@gmail.com
+GitHub: https://github.com/eegamadhu
